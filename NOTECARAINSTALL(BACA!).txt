@@ -1,0 +1,5 @@
+Cara Install : 
+
+1. buka folder Installer
+2. jalankan  FlappyBird1.exe (jika muncul windows protected your pc tinggal klik more info lalu run anyway)
+3. next lalu install.
